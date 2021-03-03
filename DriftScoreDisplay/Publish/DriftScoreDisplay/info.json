@@ -1,0 +1,8 @@
+﻿{
+  "Id": "DriftScoreDisplay",
+  "DisplayName": "DriftScoreDisplay",
+  "Author": "RackAttack",
+  "Version": "1.0.0",
+  "AssemblyName": "DriftScoreDisplay.dll",
+  "EntryMethod": "DriftScoreDisplay.Main.Load"
+}
